@@ -15,7 +15,6 @@ docker build -t jbor/shairport .
 
 ### Run
 ```sh
-Set environment var NAME of HOST
 docker run --name shairport -v /dev/snd:/dev/snd:rw --net="host" --privileged -d jbor/shairport
 ```
 
