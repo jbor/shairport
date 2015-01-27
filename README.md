@@ -21,7 +21,7 @@ docker run --name shairport -v /dev/snd:/dev/snd:rw --net="host" --privileged -d
 ### Todo's
 Things that need to be done:
 * Isolate the image, so --net="host" is not needed
-* Get the sound device to work without running in --priviliged mode
+* Get the sound device to work without running in --privileged mode
 * Making it smaller
 
 ### Docker Repository
