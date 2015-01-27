@@ -6,7 +6,7 @@ Please notice that it's very basic, but it works.
 
 ### Requirement
 * phusion/baseimage
-* Alsa sound enables host
+* Alsa sound enabled on host
 
 ### Build
 ```sh
