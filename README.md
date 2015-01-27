@@ -4,8 +4,8 @@ This is my first attempt to make a useful Docker image out of Shairport.
 In it's current state it's pretty basic and unsafe.
 Please notice that it's very basic, but it works.
 
-### Requirement
-* phusion/baseimage
+### Requirements
+* phusion/baseimage (or Ubuntu)
 * Alsa sound enabled on host
 
 ### Build
