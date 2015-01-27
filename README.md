@@ -24,3 +24,6 @@ Things that need to be done:
 * Isolate the image, so --net="host" is not needed
 * Get the sound device to work without running in --priviliged mode
 * Making it smaller
+
+### Docker Repository
+https://registry.hub.docker.com/u/jbor/shairport/
